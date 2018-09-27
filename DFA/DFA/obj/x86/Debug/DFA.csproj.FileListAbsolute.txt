@@ -1,0 +1,13 @@
+C:\Users\alnelson\AppData\Local\Temporary Projects\DFA\bin\Debug\DFA.exe
+C:\Users\alnelson\AppData\Local\Temporary Projects\DFA\bin\Debug\DFA.pdb
+C:\Users\alnelson\AppData\Local\Temporary Projects\DFA\obj\x86\Debug\DFA.Properties.Resources.resources
+C:\Users\alnelson\AppData\Local\Temporary Projects\DFA\obj\x86\Debug\DFA.csproj.GenerateResource.Cache
+C:\Users\alnelson\AppData\Local\Temporary Projects\DFA\obj\x86\Debug\DFA.exe
+C:\Users\alnelson\AppData\Local\Temporary Projects\DFA\obj\x86\Debug\DFA.pdb
+C:\Users\alnelson\documents\visual studio 2010\Projects\DFA\DFA\obj\x86\Debug\DFA.exe
+C:\Users\alnelson\documents\visual studio 2010\Projects\DFA\DFA\obj\x86\Debug\DFA.pdb
+C:\Users\alnelson\documents\visual studio 2010\Projects\DFA\DFA\obj\x86\Debug\DFA.Form1.resources
+C:\Users\alnelson\documents\visual studio 2010\Projects\DFA\DFA\obj\x86\Debug\DFA.Properties.Resources.resources
+C:\Users\alnelson\documents\visual studio 2010\Projects\DFA\DFA\obj\x86\Debug\DFA.csproj.GenerateResource.Cache
+C:\Users\alnelson\documents\visual studio 2010\Projects\DFA\DFA\bin\Debug\DFA.exe
+C:\Users\alnelson\documents\visual studio 2010\Projects\DFA\DFA\bin\Debug\DFA.pdb

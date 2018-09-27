@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFA", "DFA\DFA.csproj", "{A45F4EB8-3BB8-4903-81B6-67658E1D4BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A45F4EB8-3BB8-4903-81B6-67658E1D4BDF}.Debug|x86.ActiveCfg = Debug|x86
+		{A45F4EB8-3BB8-4903-81B6-67658E1D4BDF}.Debug|x86.Build.0 = Debug|x86
+		{A45F4EB8-3BB8-4903-81B6-67658E1D4BDF}.Release|x86.ActiveCfg = Release|x86
+		{A45F4EB8-3BB8-4903-81B6-67658E1D4BDF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
