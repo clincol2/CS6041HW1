@@ -1,0 +1,20 @@
+
+using System;
+class Program
+{
+    static void Main(string[] args)
+    {
+        string Input, reverse = "";
+        int Length;
+        Console.Write("Enter A String : ");
+        Input = Console.ReadLine();
+        Length = Input.Length - 1;
+        while (Length >= 0)
+        {
+            reverse = reverse + Input[Length];
+            Length--;
+        }
+        Console.WriteLine("palindrom  is  {0}", Input + reverse);
+        Console.ReadLine();
+    }
+}
